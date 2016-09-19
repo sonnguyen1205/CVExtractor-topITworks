@@ -37,12 +37,15 @@ Thông tin liên hệ :
   
  Thanks !
 
-Screenshots
+### Screenshots
 
-![N][Table](https://raw.githubusercontent.com/sonnguyen1205/CVExtractor-topITworks/master/screenshots/table.png)
+#### Show dạng bảng
+![N](https://raw.githubusercontent.com/sonnguyen1205/CVExtractor-topITworks/master/screenshots/table.png)
 
-![N][Dump](https://raw.githubusercontent.com/sonnguyen1205/CVExtractor-topITworks/master/screenshots/dump.png)
+#### Show dạng dump array
+![N](https://raw.githubusercontent.com/sonnguyen1205/CVExtractor-topITworks/master/screenshots/dump.png)
 
-![N][Cli](https://raw.githubusercontent.com/sonnguyen1205/CVExtractor-topITworks/master/screenshots/cli.png)
+#### Chạy trong CLI
+![N](https://raw.githubusercontent.com/sonnguyen1205/CVExtractor-topITworks/master/screenshots/cli.png)
 
 ![N|Solid](http://topit.vietnamworks.com/static/hackathon/img/hackathon-logo.png)
