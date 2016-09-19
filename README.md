@@ -3,8 +3,6 @@
 
 Xin chào bạn, dự án này chỉ sử dụng 4 file code không sử dụng thư viện ngoài nên việc chạy dự án rất đơn giản và nhanh chóng.
 
-Tuy nhiên trong lúc chạy nếu có lỗi xin vui lòng feedback lại theo các thông tin liên hệ bên dưới, xin chân thành cám ơn.
-
 ### Hướng dẫn
 Chương trình viết bằng ngôn ngữ PHP , để chạy bạn chỉ cần cài đặt một phiên bản php5.4 trở lên, chạy trên mọi hệ điều hành.
 
