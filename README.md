@@ -14,7 +14,7 @@ Copy thư mục chương trình vào thư mục webroot của bạn, mở browse
 
 http://your-local-web/path-to-project-dir/run.php
 
-Nhấn vào nút Browse... để chọn file CV (.doc) trong máy tính , nhấn nút "Upload and parse now!" để tiến hành parse.
+Nhấn vào nút Browse... để chọn file CV (.doc) trong máy tính (vd: sample_cv_vi.doc hoặc sample_cv_en.doc) , nhấn nút "Upload and parse now!" để tiến hành parse.
 
 Có 2 lựa chọn để hiễn thị dữ liệu sau khi parse:
 
